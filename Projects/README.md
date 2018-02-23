@@ -1,7 +1,9 @@
 
 ## Personal Projects
 
-This repository contain projects I worked on while studying data science. The projects below will serve as reference notes for myself and anyone else who is interested. 
+This repository contain projects I worked on while studying data science. The projects below will serve as reference notes for myself and anyone else who is interested.
+The following links lead to the project folder containing on all the files used for the Jupyter notebook.
+
 
 ### Project #1: [Web Scraping using Reddit's API](https://github.com/sengkchu/codingdisciple.content/blob/master/Projects/Web%20Scraping%20using%20Reddit's%20API)
 <sup>Concepts explored: lists, dictionaries, API, data structures, JSON</sup>
