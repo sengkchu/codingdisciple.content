@@ -1,6 +1,6 @@
-Title: Hypothesis Testing with ANOVA in Python
-Slug: hypothesis-testing-ANOVA-python
-Date: 2018-03-1
+Title: Chi-Squared Test for Independence in Python
+Slug: chi-squared-python
+Date: 2018-03-04
 Tags: pandas, matplotlib, inferential statistics, hypothesis testing, python
 Category: Learning Data Science
 Author: Seng Chu
