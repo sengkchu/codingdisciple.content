@@ -1,12 +1,13 @@
 Title: Discipline vs. Motivation
 Date: 2018-01-27
-Tags: discipline
+Tags: motivational
 Slug: discipline-vs-motivation
 Category: Personal Exploration
+Cover: /images/discipline-vs-motivation/cover.jpg
 Author: Seng Chu
 Series: Self Development
 
-Let's start with some definitions that I copy/pasted from dictionary.com:
+Let's start with some definitions:
 
 Discipline - noun, training to act in accordance with rules.
 
@@ -26,7 +27,7 @@ But we do it anyway, is it because we are afraid of our boss? Possibly, but the 
 Despite the lack of motivation, I made it to work on time every single time. A person's mood changes every single day. You might feel motivated today, and worn out the next day.
 
 In the long run, building discipline and a strong work ethic is more important than motivation. Being disciplined means having a set a rules to follow no matter what. 
-It is something that is core to a person's being. 
+It is something that is core to a person's being.
 
 If I set rules for myself, and tell myself I am going to complete at least two units of a course every single day. 
 I am going to do it and not make excuses. If I felt lazy that day, I am going to tell myself that I screwed up. That is all there is to it. 

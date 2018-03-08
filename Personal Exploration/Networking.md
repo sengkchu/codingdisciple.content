@@ -3,6 +3,7 @@ Date: 2018-02-08
 Tags: google analytics, networking
 Slug: learning-networking
 Category: Personal Exploration
+Cover: /images/learning-networking/cover.jpg
 Author: Seng Chu
 
 It has been about a week since I launched this blog. I created this blog mainly for myself to document my learning journey. 

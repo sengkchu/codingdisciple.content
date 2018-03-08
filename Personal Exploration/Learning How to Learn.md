@@ -1,8 +1,9 @@
-Title: Learning How to Learn
+Title: The Journey of Learning
 Date: 2018-02-23
 Tags: learning, motivational
 Slug: how-to-learn
 Category: Personal Exploration
+Cover: /images/how-to-learn/cover.jpg	
 Author: Seng Chu
 series: Self Development
 
