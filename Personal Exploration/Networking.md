@@ -5,6 +5,7 @@ Slug: learning-networking
 Category: Personal Exploration
 Cover: /images/learning-networking/cover.jpg
 Author: Seng Chu
+status: hidden
 
 It has been about a week since I launched this blog. I created this blog mainly for myself to document my learning journey. 
 However, I also wanted feedback from people who visit this blog. I am learning data science online with no mentors. Having some sort of feedback is extremely valuable to me.

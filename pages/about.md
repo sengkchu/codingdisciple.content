@@ -1,31 +1,24 @@
 Title: About me
 Date: 2018-01-26
-Author: Seng Chu
-URL: 
-Slug: 
+Author: Seng Chu 
+Slug: about
 save_as: index.html
 
-My name is Seng Kin Chu, and I am the Coding Disciple. I am self-taught in Python, and I am a data science enthusiast.
+
+Hi, my name is Seng Kin Chu, and I am the Coding Disciple. I am self-taught in Python, and I am a data science enthusiast.
 I am passionate about learning and I strive to improve myself every single day. 
 
-I used to work as a traditional chemical process engineer. My job was to act as an overseer for a well established pharmaceutical production process.
-It was a slow and steady job that provided me with a decent income. 
-Eventually, I became very comfortable with my job and reached a point of stagnation.
-I didn't want to feel complacent and settle into a job for money alone. So I asked myself a very important question.
+The purpose of this website is to provide educational content on data science to myself and to other learners.
+For me, the best way to understand a concept is to explain it to someone else.
+I explain various concepts in data science by coding using real world datasets and examples.
 
-<b>Is this the life I wanted?</b>
+In addition to writing about technical concepts in data science, I also wanted a way to document my personal journey.
+Below is my timeline so far:
 
-<div style="text-align:center">
-<img src="images/about-me/ikigai.jpg" alt="ikigai" style="width: 600px;"/>
-</div>
-
-The Japanese concept of "Ikigai" strongly resonates with me. I was in the "Profession" portion of the Venn diagram.
-My life lacked meaning, every morning I would wake up and head towards work like a robot.
-I learned a lot from my first job, and I will forever be grateful for the opportunity. 
-The process engineering and problem solving skills will probably stay with me for the rest of my life.
-But I knew I needed change, so I left the company. 
-
-At the time, I had no idea what I was doing in my life. After 10 months of wandering, I discovered Python and data science. I immediately fell in love.
-I created this blog to document my journey towards Ikigai. But I also wish to inspire other people with the content on this blog.
-
-I hope you enjoy your stay here!
++ 11/19/2017 - Started learning data science on [Dataquest](https://dataquest.io).
++ 01/20/2018 - Completed the data science route on [Dataquest](https://dataquest.io).
++ 01/26/2018 - Learned how to use pelican, Git, HTML, and CSS to create this blog.
++ 02/07/2018 - Completed my first machine learning project on [Kaggle](https://www.kaggle.com/sengkchu).
++ 02/15/2018 - Finished studying from my dataquest projects.
++ 02/16/2018 - Started my journey into the world of statistics. Created my first statistics blog post.
++ 03/11/2018 - Created my portfolio [website](https://sengkinchu.github.io)

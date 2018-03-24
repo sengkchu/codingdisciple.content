@@ -6,6 +6,7 @@ Category: Personal Exploration
 Cover: /images/how-to-learn/cover.jpg	
 Author: Seng Chu
 series: Self Development
+status: hidden
 
 Learning a new subject or topic can be very difficult, especially when we get older.
 Is this really true? There is definitely correlation between age and the ability to learn.

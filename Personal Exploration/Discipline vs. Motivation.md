@@ -6,6 +6,7 @@ Category: Personal Exploration
 Cover: /images/discipline-vs-motivation/cover.jpg
 Author: Seng Chu
 Series: Self Development
+status: hidden
 
 Let's start with some definitions:
 
